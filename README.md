@@ -1,1 +1,1 @@
-flutter-forest
+Projeto pessoal para estudos de Flutter.
